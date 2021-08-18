@@ -1,6 +1,6 @@
 menu:
   - title: About
-    url: /cesm-alt-earths/about
+    url: /cesm-alt-earths/about.html
   - title: Updating the Main Menu
     url: /cesm-alt-earths/main-menu.html
   - title: Local Development
