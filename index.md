@@ -1,10 +1,10 @@
 ---
 layout: frontpage
 title: Home
-banner-title: Example Github site
-banner-description: This is a custom Jekyll theme based on UCAR/NCAR's custom 'koru' design. It is built on top of the Foundation framework. This provides users and developers with responsiveness and accessibility.
-banner-button-text: Download
-banner-button-url: https://github.com/NCAR/jekyll-koru-jekyll-template
+banner-title: Simulating early Earth, moons, and exoplanets
+banner-description: Topics include studies of the climate and chemistry of early Earth, the circulation of slowly rotating and tidally locked planets, and the chemical and dynamical impacts of changing the spectral type of host star.
+banner-button-text: Learn More
+banner-button-url: https://ncar.github.io/cesm-alt-earths/about
 ---
 
 # Documentation
