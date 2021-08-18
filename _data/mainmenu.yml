@@ -1,12 +1,9 @@
 menu:
-  - title: Layouts
-    url: /koru-jekyll-template/pages/layouts.html
-    submenu:
-      - title: Submenu Item
-        url: /koru-jekyll-template/pages/submenu.html
+  - title: About
+    url: /cesm-alt-earths/about
   - title: Updating the Main Menu
-    url: /koru-jekyll-template/pages/main-menu.html
+    url: /cesm-alt-earths/main-menu.html
   - title: Local Development
-    url: /koru-jekyll-template/pages/local-development.html
+    url: /cesm-alt-earths/local-development.html
   - title: Support
-    url: /koru-jekyll-template/pages/support.html
+    url: /cesm-alt-earths/support.html
